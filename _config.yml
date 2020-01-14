@@ -20,11 +20,11 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  # About Me: "aboutme"
+  # Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #  - Learn markdown: "http://www.markdowntutorial.com/"
+  # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,11 +42,11 @@ navbar-col: "#25282F"
 navbar-text-col: "#FFFFFD"
 navbar-children-col: "#25282F"
 page-col: "#33333D"
-link-col: "#045D56"
+link-col: "#077A51"
 hover-col: "#1EB980"
 footer-col: "#25282F"
 footer-text-col: "#FFFFFD"
-footer-link-col: "#045D56"
+footer-link-col: "#077A51"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -60,7 +60,7 @@ footer-link-col: "#045D56"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Nicholas Sollazzo
+  name: © Nicholas Sollazzo
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
