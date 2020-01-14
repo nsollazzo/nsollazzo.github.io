@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 title: 404 - Page not found
 permalink: /404.html
 ---
@@ -17,7 +17,9 @@ permalink: /404.html
       <span>44</span>
     </div>
     <p>The page you are trying to search has been <br> moved to another universe.</p>
-    <button type="button">GET ME HOME</button>
+    <form action="{{ './index.html' | relative_url }}">
+      <button type="submit">GET ME HOME</button>
+   </form>
   </div>
 </div>
 <!-- partial -->
