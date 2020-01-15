@@ -14,15 +14,15 @@ tags: [ita, bitcoin]
 L’intervento del **professor Ametrano** per **iBicocca** ha permesso ai partecipanti di comprendere meglio gli argomenti di Bitcoin e Blockchain, ad oggi argomenti oggetto di un’euforia ed una confusione per molti: Blockchain sembra promettere cambiamenti straordinari nel mercato dei capitali, mentre Bitcoin è spesso associato ad attività illegali e bolle finanziarie.
 Cerchiamo di fare chiarezza su questi due argomenti riassumendo i punti salienti dell’intervento:
 
+# Che cos’è bitcoin?
+**bitcoin** è una **moneta digitale e decentralizzata** – cioè senza nessun governo o organizzazione alle sue spalle – non si basa su una terza parte fiduciaria, permette transazioni tra due parti (**peer-to-peer**) in maniera istantanea e crittograficamente sicura poiché registrate sulla **blockchain**.
+
+Bitcoin rappresenta potenzialmente una **efficiente banca low-cost per tutti ovunque essi siano**, a patto di possedere un dispositivo elettronico connesso alla rete internet, garantendo allo stesso tempo un alto livello di privacy.
+
 # Che cos’è la Blockchain?
 La **Blockchain** può essere pensata come un **registro contabile distribuito** tra tutti i partecipanti della rete, dove tutti possono controllare e verificare le transazioni di tutti.
 
 Da un punto di vista più tecnico, la Blockchain è una **struttura dati, sequenziale ed append-only**, cioè,un nuovo blocco può essere solo agganciato in coda alla catene e cambiare un blocco nel mezzo della catena è estremamente inefficiente poiché comporta la riscrittura di tutti i blocchi successivi.
-
-# Che cos’è bitcoin?
-**bitcoin** è una **moneta digitale**, decentralizzata – cioè senza nessun governo o organizzazione alle sue spalle – non si basa su una terza parte fiduciaria, permette transazioni tra due parti (peer-to-peer) in maniera istantanea e crittograficamente sicura.
-
-Bitcoin rappresenta potenzialmente una **efficiente banca low-cost per tutti ovunque essi siano**, a patto di possedere un dispositivo elettronico connesso alla rete internet, garantendo allo stesso tempo un alto livello di privacy.
 
 # Come funziona Bitcoin?
 Per inviare dei bitcoin, bisogna conoscere l’**indirizzo** del portafoglio della persona alla quale lo si vuole mandare: un po’ come quando si vuole fare un bonifico bancario a qualcuno ed è necessario conoscere l’IBAN dell’altra persona.
