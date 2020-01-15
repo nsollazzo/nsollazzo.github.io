@@ -15,7 +15,7 @@ L’intervento del **professor Ametrano** per **iBicocca** ha permesso ai partec
 Cerchiamo di fare chiarezza su questi due argomenti riassumendo i punti salienti dell’intervento:
 
 # Che cos’è la Blockchain?
-La Blockchain può essere pensata come un **registro contabile distribuito** tra tutti i partecipanti della rete, dove tutti possono controllare e verificare le transazioni di tutti.
+La **Blockchain** può essere pensata come un **registro contabile distribuito** tra tutti i partecipanti della rete, dove tutti possono controllare e verificare le transazioni di tutti.
 
 Da un punto di vista più tecnico, la Blockchain è una **struttura dati, sequenziale ed append-only**, cioè,un nuovo blocco può essere solo agganciato in coda alla catene e cambiare un blocco nel mezzo della catena è estremamente inefficiente poiché comporta la riscrittura di tutti i blocchi successivi.
 
