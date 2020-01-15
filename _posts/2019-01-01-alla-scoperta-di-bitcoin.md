@@ -15,7 +15,7 @@ L’intervento del **professor Ametrano** per **iBicocca** ha permesso ai partec
 Cerchiamo di fare chiarezza su questi due argomenti riassumendo i punti salienti dell’intervento:
 
 # Che cos’è bitcoin?
-**bitcoin** è una **moneta digitale e decentralizzata** – cioè senza nessun governo o organizzazione alle sue spalle – non si basa su una terza parte fiduciaria, permette transazioni tra due parti (**peer-to-peer**) in maniera istantanea e crittograficamente sicura poiché registrate sulla **blockchain**.
+**bitcoin** è una **moneta digitale e decentralizzata** – cioè senza nessun governo o organizzazione alle sue spalle – non si basa su una terza parte fiduciaria, permette transazioni tra due parti (**peer-to-peer**) in maniera istantanea e crittograficamente sicura.
 
 Bitcoin rappresenta potenzialmente una **efficiente banca low-cost per tutti ovunque essi siano**, a patto di possedere un dispositivo elettronico connesso alla rete internet, garantendo allo stesso tempo un alto livello di privacy.
 
@@ -29,7 +29,7 @@ Per inviare dei bitcoin, bisogna conoscere l’**indirizzo** del portafoglio del
 
 La transazione viene successivamente distribuita a tutti i nodi della rete e, alcuni nodi speciali, chiamati **miners**, si occuperanno di convalidare questa transazione, accertandosi, per esempio, che i bitcoin che Alice sta inviando a Bob non siano stati precedentemente già spesi (risoluzione del *problema della doppia spesa*).
 
-Una volta convalidata la transazione, essa verrà aggiunta ad un **blocco** – ovvero un insieme di transazioni – che verrà successivamente aggiunto in coda agli altri blocchi presenti sulla Blockchain.
+Una volta convalidata la transazione, essa verrà aggiunta ad un **blocco** – ovvero un insieme di transazioni – che verrà successivamente aggiunto in coda agli altri blocchi presenti sulla **Blockchain**.
 
 I miners verranno poi ricompensati per il lavoro svolto con dei bitcoin. Attualmente il **block reward** è di **12.5BTC** e questa quantità si dimezza ogni **210,000 blocchi()** ovvero, **circa 4 anni**.
 
@@ -56,3 +56,6 @@ la Blockchain è per lo più solo hype: non esiste blockchain senza bitcoin; esi
 *“Be your own bank”*.
 
 Se si vuole approfondire i concetti di Bitcoin e Blockchain è possibile visitare il [sito personale del professore](ametrano.net) ed esplorare le sue pubblicazioni, slide, eventi e molto altro.
+
+# Intervista al professor Ametrano
+[![fab](http://img.youtube.com/vi/jya-TopwsJw/0.jpg)](http://www.youtube.com/watch?v=jya-TopwsJw "ferdinando-ametrano-bitcoin")
