@@ -24,7 +24,7 @@ As a **Computer Scientist at my very core**, I'm **very curious** and very often
 <br>
 That is why I want to be an entrepreneur. Because **I would like to do something to change the world**. Because I see everyday things that are done fundamentally wrong, like privacy, the environmental protection, financial system, and so much more, and I think I could help to make it right. I could help to improve that.
 <br>
-That's why I want to be and entrepreneur. To build something to help. Something to create value for every single person on earth. Something to fix what, in my opinion, is wrong or could be done better in this modern age.
+That's why I want to be an entrepreneur. To build something to help. Something to create value for every single person on earth. Something to fix what, in my opinion, is wrong or could be done better in this modern age.
 <br>
 <br>
 This is who I am. <br>
