@@ -20,10 +20,10 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-   About Me: "aboutme"
    Projects:
-      - Appunti.space: "https://appunti.space"
-  #  - Learn markdown: "http://www.markdowntutorial.com/"
+    - Appunti.space: "https://appunti.space"
+ #  - Bitcoin Intro: ""
+   About Me: "aboutme"
    Source code: "https://github.com/nsollazzo/sollazzo.one"
 
 # Image to show in the navigation bar - image must be a square (width = height)
