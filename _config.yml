@@ -21,8 +21,8 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
    About Me: "aboutme"
-  # Resources:
-  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+   Projects:
+      - Appunti.space: "https://appunti.space"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
    Source code: "https://github.com/nsollazzo/sollazzo.one"
 
