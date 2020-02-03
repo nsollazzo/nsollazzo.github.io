@@ -31,7 +31,7 @@ The solutions to the Fake News problem, in my opinion, are:
 
 1. **DYOR** (Do Your Own Research): educate the people not to trust a single source but to research, understand, ask questions and make their own ideas based on many sources.
 
-2. **Relying on sites where the news are verified**: since, as previously mentioned, our brain is lazy and it is more difficult to do some research than is to read a single article (or a title, in some cases), we should get informed on sites where the news are checked, approved and modified by many people. Sites like: <a href="https://wikinews.org" target="_blank"> WikiNews </a> or <a href="https://wt.social" target="_blank"> WikiTribunal </a> or even sites like <a href="https://reddit.com" target="_blank"> reddit </a> where the news are crowdsourced there are community checks and comments.
+2. **Relying on websites where the news are verified**: since, as previously mentioned, our brain is lazy and it is more difficult to do some research than is to read a single article (or a title, in some cases), we should get informed on sites where the news are checked, approved and modified by many people. Websites like: <a href="https://wikinews.org" target="_blank"> WikiNews </a> or <a href="https://wt.social" target="_blank"> WikiTribunal </a> or even websites like <a href="https://reddit.com" target="_blank"> reddit </a> where the news are crowdsourced there are community checks and comments.
 
 3. **AI**: we have already talked about Artificial Intelligence, so another option could be to train a neural network that takes multiple sources and put them together into a neutral and bias-free articles with a reasonable degree of accuracy.
 
