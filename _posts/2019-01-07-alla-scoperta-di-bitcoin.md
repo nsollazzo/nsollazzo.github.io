@@ -2,11 +2,11 @@
 layout: post
 title: Alla scoperta di Bitcoin con Ferdinando Ametrano
 subtitle: Bitcoin, Blockchain e Notarizzazione
-bigimg: /img/bitcoin.jpg
+bigimg: /img/post_covers/bitcoin.jpg
 unsplash: true
 unsplash-username: denarium_bitcoin
 unsplash-author: Aleksi Räisä
-tags: [ita, bitcoin]
+tags: [ITA, Bitcoin]
 ---
 
 > Originariamente postato su  <a href="http://ibicocca.it/iknow-bitcoin-2/" target="_blank" rel="noopener noreferrer">iBicocca Blog</a>
