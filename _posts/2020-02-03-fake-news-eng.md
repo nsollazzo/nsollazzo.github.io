@@ -9,7 +9,7 @@ unsplash-author: Max Muselmann
 tags: [ENG, Fake News, Social Networks, Privacy]
 ---
 
-> Versione Italiana [qua](/2020-02-03-fake-news-ita)
+> Other languages: [🇮🇹](/2020-02-03-fake-news-ita)
 
 Our brain is constantly in "energy saving mode": it is lazy and always looking for shortcuts to save energy; that's why, when it comes to inquire about something, people have a tendency to rely on a single source, often the first one they come into contact with, and take everything it says as unique and absolute truth. 
 Whereas in the past the main source was newspapers, today the main source of information are definitely **Social Networks**. 
