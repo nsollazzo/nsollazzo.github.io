@@ -69,7 +69,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-# email: ""
+  email: "nicholas@sollazzo.one"
   facebook: SollazzoNicholas
   github: nsollazzo
   twitter: n_sollazzo
@@ -80,7 +80,7 @@ social-network-links:
 #  snapchat: deanat78
   instagram: nicholas_sollazzo
   youtube: channel/UCkubiNhj7JfTDnB6sYzoYjw
-  spotify: 1182935053
+# spotify: 1182935053
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
