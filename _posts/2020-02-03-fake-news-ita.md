@@ -33,7 +33,7 @@ Le soluzioni al problema delle Fake News, secondo me, sono:
 
 2. **Basarsi su siti dove le notizie sono verificate**: poiché, come già detto, il nostro cervello è pigro ed è più difficile fare delle ricerche che leggere un singolo articolo (o un titolo, in alcuni casi), dovremmo informarci su siti dove le notizie sono controllate, approvate e modificate da molte persone. Siti come: <a href="https://wikinews.org" target="_blank"> WikiNews </a> o <a href="https://wt.social" target="_blank"> WikiTribunal </a> o anche siti come <a href="https://reddit.com" target="_blank"> reddit </a> dove le notizie arrivano dagli utenti e ci sono controlli e commenti della community stessa.
 
-3. **AI**: abbiamo già parlato di Intelligenza Artificiale, quindi un'altra opzione potrebbe essere quella di formare una rete neurale che prenda più fonti e le metta insieme in un articolo neutro e privo di pregiudizi con un ragionevole grado di accuratezza.
+3. **Intelligenza Artificiale**: un'altra opzione potrebbe essere quella di formare una rete neurale che prenda più fonti e le metta insieme in un articolo neutro e privo di pregiudizi con un ragionevole grado di accuratezza.
 
 Personalmente sono molto attratto da progetti come WikiTribunal e, per questo motivo, spero che questo progetto possa davvero essere adottato dalle masse.
 Visto che abbiamo Instagram per le foto, YouTube per i video, Wikipedia per l'enciclopedia online e Facebook per ricordarci il compleanno di nostra madre, spero che un giorno, WikiTribunal, possa diventare il luogo dove tutti andranno a leggere le notizie.
